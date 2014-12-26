@@ -1,0 +1,20 @@
+C:\Users\BITM-301-PC\Desktop\Convert App\Convert App\bin\Debug\Convert App.exe.config
+C:\Users\BITM-301-PC\Desktop\Convert App\Convert App\bin\Debug\Convert App.exe
+C:\Users\BITM-301-PC\Desktop\Convert App\Convert App\bin\Debug\Convert App.pdb
+C:\Users\BITM-301-PC\Desktop\Convert App\Convert App\obj\Debug\Convert App.csprojResolveAssemblyReference.cache
+C:\Users\BITM-301-PC\Desktop\Convert App\Convert App\obj\Debug\Convert_App.Form1.resources
+C:\Users\BITM-301-PC\Desktop\Convert App\Convert App\obj\Debug\Convert_App.Properties.Resources.resources
+C:\Users\BITM-301-PC\Desktop\Convert App\Convert App\obj\Debug\Convert App.csproj.GenerateResource.Cache
+C:\Users\BITM-301-PC\Desktop\Convert App\Convert App\obj\Debug\Convert App.exe
+C:\Users\BITM-301-PC\Desktop\Convert App\Convert App\obj\Debug\Convert App.pdb
+F:\Convert App\Convert App\bin\Debug\Convert App.exe.config
+F:\Convert App\Convert App\obj\Debug\Convert App.exe
+F:\Convert App\Convert App\obj\Debug\Convert App.pdb
+D:\TUTORIAL\ASP.NET\Convert App\Convert App\bin\Debug\Convert App.exe.config
+D:\TUTORIAL\ASP.NET\Convert App\Convert App\bin\Debug\Convert App.exe
+D:\TUTORIAL\ASP.NET\Convert App\Convert App\bin\Debug\Convert App.pdb
+D:\TUTORIAL\ASP.NET\Convert App\Convert App\obj\Debug\Convert_App.ConvertAppUI.resources
+D:\TUTORIAL\ASP.NET\Convert App\Convert App\obj\Debug\Convert_App.Properties.Resources.resources
+D:\TUTORIAL\ASP.NET\Convert App\Convert App\obj\Debug\Convert App.csproj.GenerateResource.Cache
+D:\TUTORIAL\ASP.NET\Convert App\Convert App\obj\Debug\Convert App.exe
+D:\TUTORIAL\ASP.NET\Convert App\Convert App\obj\Debug\Convert App.pdb
